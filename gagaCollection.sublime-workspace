@@ -1,0 +1,2639 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"h",
+				"href	Attr"
+			],
+			[
+				"pr",
+				"presstime"
+			],
+			[
+				"ta",
+				"target	Attr"
+			],
+			[
+				"append",
+				"appendTo"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"inpu",
+				"inputValue"
+			],
+			[
+				"ne",
+				"newServiceImgName"
+			],
+			[
+				"im",
+				"imgName"
+			],
+			[
+				"img",
+				"imgFolder"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"_",
+				"_initType"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"remo",
+				"remove"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"show",
+				"showFilter"
+			],
+			[
+				"create",
+				"createProject"
+			],
+			[
+				"t",
+				"type	Attr"
+			],
+			[
+				"track",
+				"trackid"
+			],
+			[
+				"selecr",
+				"selectpicker"
+			],
+			[
+				"dtbg",
+				"d-tbclg	display: table-column-group;"
+			],
+			[
+				"s",
+				"search.png	w:20 h:22"
+			],
+			[
+				"input",
+				"inputVal"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"ova",
+				"ovy:a	overflow-y:auto"
+			],
+			[
+				"ttn",
+				"tt:n	text-transform:none"
+			],
+			[
+				"fw",
+				"fw:b	font-weight:bold"
+			],
+			[
+				"g",
+				"trackster-backimg-purpleGradient.svg"
+			],
+			[
+				"ligh",
+				"lighten"
+			],
+			[
+				"whsn",
+				"whs:nw	white-space:nowrap"
+			],
+			[
+				"trans",
+				"transparent"
+			],
+			[
+				"pl",
+				"trackster-backimg-player.svg"
+			],
+			[
+				"tt",
+				"tt:n	text-transform:none"
+			],
+			[
+				"lsn",
+				"lis:n	list-style:none"
+			],
+			[
+				"_trackster-ed",
+				"_trackster-bootstrap-editable.sass"
+			],
+			[
+				"bgz",
+				"bgz:cv	background-size:cover"
+			],
+			[
+				"myTracksTab_my",
+				"myTracksTab_mytracks-hover.png	w:15 h:15"
+			],
+			[
+				"png",
+				"myTracksTab_mytracks.png	w:15 h:15"
+			],
+			[
+				"b",
+				"bootbox.js"
+			],
+			[
+				"bgzc",
+				"bgz:cv	background-size:cover"
+			],
+			[
+				"mi",
+				"mixer.png	w:20 h:20"
+			],
+			[
+				"mytra",
+				"myTracksTab_mytracks.png	w:15 h:15"
+			],
+			[
+				"my",
+				"myTracksTab/"
+			],
+			[
+				"up",
+				"uploaded.png	w:32 h:32"
+			],
+			[
+				"p",
+				"player_previous.svg"
+			],
+			[
+				"bg",
+				"bgz:ct	background-size:contain"
+			],
+			[
+				"tra",
+				"trackster-backimg-purpleGradient3.svg"
+			],
+			[
+				"d",
+				"tabdrop.css"
+			],
+			[
+				"hideIt",
+				"hideItem"
+			],
+			[
+				"bo",
+				"bootstrap-table.min.css"
+			],
+			[
+				"bootstrap-t",
+				"bootstrap-table-zh-TW.min.js"
+			],
+			[
+				"_trackster-p",
+				"_trackster-pagination.sass"
+			],
+			[
+				"j",
+				"jquery.tabledit.min.js"
+			],
+			[
+				"fwb",
+				"fw:b	font-weight:bold"
+			],
+			[
+				"ls",
+				"lis:n	list-style:none"
+			],
+			[
+				"la",
+				"_trackster-layout.sass"
+			],
+			[
+				"font-",
+				"font-white"
+			],
+			[
+				"sign",
+				"signup.html"
+			],
+			[
+				"bs",
+				"_bs-tooltip-inner.sass"
+			],
+			[
+				"o",
+				"orm/"
+			],
+			[
+				"m",
+				"Models/"
+			],
+			[
+				"urlenco",
+				"urlencodedParser"
+			],
+			[
+				"urlenc",
+				"urlencodedParser"
+			],
+			[
+				"body",
+				"bodyParser"
+			],
+			[
+				"mem",
+				"member_id"
+			],
+			[
+				"member",
+				"member_email"
+			],
+			[
+				"memb",
+				"member_createDate"
+			],
+			[
+				"mam",
+				"member_email"
+			],
+			[
+				"member_",
+				"member_name"
+			],
+			[
+				"userEMC",
+				"userEMCMobile"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"topic",
+				"topicTitle"
+			],
+			[
+				"valida",
+				"validate"
+			],
+			[
+				"n",
+				"name	Attr"
+			],
+			[
+				"sort",
+				"sortByDate"
+			],
+			[
+				"edu",
+				"eduDataRows"
+			],
+			[
+				"socDa",
+				"socDataRows"
+			],
+			[
+				"sho",
+				"shoSocDatas"
+			],
+			[
+				"app_",
+				"app_SocExpTable.js"
+			],
+			[
+				"socNa",
+				"socNature"
+			],
+			[
+				"socData",
+				"socDataRows"
+			],
+			[
+				"c",
+				"colspan	Attr"
+			],
+			[
+				"zh",
+				"bootstrap-datepicker.zh-TW.min.js"
+			],
+			[
+				"selec",
+				"selected"
+			],
+			[
+				"eduDa",
+				"eduDatas"
+			],
+			[
+				"item",
+				"itemNum"
+			],
+			[
+				"eduD",
+				"eduDatas"
+			],
+			[
+				"eduBG",
+				"eduBGTable"
+			],
+			[
+				"w",
+				"WISEHomeImg_text_s480.png	w:480 h:401"
+			],
+			[
+				"bgi",
+				"bgi	background-image"
+			],
+			[
+				"ov",
+				"ovy	overflow-y"
+			],
+			[
+				"wise201",
+				"WISE2016.svg"
+			],
+			[
+				"di",
+				"d:i	display:inline"
+			],
+			[
+				"view",
+				"viewWidth"
+			],
+			[
+				"maw",
+				"maw:n	max-width:none"
+			],
+			[
+				"fo",
+				"for	Attr"
+			],
+			[
+				"ja",
+				"javascript"
+			],
+			[
+				"tw",
+				"twzipcode"
+			],
+			[
+				"ac",
+				"action	Attr"
+			],
+			[
+				"var",
+				"_wise-variables.sass"
+			],
+			[
+				"current",
+				"currentIndex"
+			],
+			[
+				"stu",
+				"wise-studentCard_N.png	w:200 h:150"
+			],
+			[
+				"stud",
+				"wise-studentCard_P.png	w:200 h:150"
+			],
+			[
+				"wiseho",
+				"WISEHomeImg.png	w:900 h:770"
+			],
+			[
+				"qna",
+				"wise-iconQnaAns.png	w:25 h:25"
+			],
+			[
+				"bx",
+				"bxsh	box-shadow"
+			],
+			[
+				"lst",
+				"list	list-style-type"
+			],
+			[
+				"cont",
+				"contentBG_foot_hd.jpg	w:1920 h:1920"
+			],
+			[
+				"wiseTitle-s",
+				"wiseTitle-signup.png	w:610 h:100"
+			],
+			[
+				"por",
+				"wiseBG-projectsRight2.png	w:102 h:77"
+			],
+			[
+				"see",
+				"wise-seemore.png	w:15 h:25"
+			],
+			[
+				"bg-",
+				"wiseBG-newsRight.png	w:263 h:595"
+			],
+			[
+				"wise",
+				"wiseTitle-news-01.png	w:610 h:100"
+			],
+			[
+				"list",
+				"list:d	list-style-type:disc"
+			],
+			[
+				"mb",
+				"mb:a	margin-bottom:auto"
+			],
+			[
+				"wf",
+				"_wf-onlineSources.sass"
+			],
+			[
+				"ind",
+				"yuhe-indexSinYi_sd.png	w:306 h:306"
+			],
+			[
+				"yuhe-ind",
+				"yuhe-indexYuhe_sd.png	w:306 h:306"
+			],
+			[
+				"index",
+				"yuhe-indexYuhe_sd.png	w:306 h:306"
+			],
+			[
+				"yuhe-index",
+				"yuhe-indexBG_HD.jpg	w:1920 h:1080"
+			],
+			[
+				"sinyi",
+				"yuhe-indexSinYi.png	w:306 h:306"
+			],
+			[
+				"mw",
+				"miw	min-width"
+			],
+			[
+				"bran",
+				"yuhe-brandingCommDesign.png	w:474 h:700"
+			],
+			[
+				"bra",
+				"yuhe-brandingProgram.png	w:398 h:700"
+			],
+			[
+				"yuhe-b",
+				"yuhe-brandingStrategy.png	w:382 h:742"
+			],
+			[
+				"ser",
+				"yuhe-serviceGraphicBG.jpg	w:845 h:735"
+			],
+			[
+				"bxsh",
+				"bxsh+	box-shadow+"
+			],
+			[
+				"ovx",
+				"ovx:s	overflow-x:scroll"
+			],
+			[
+				"cl",
+				"cl:b	clear:both"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "contact.html",
+			"settings":
+			{
+				"buffer_size": 3145,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 23365,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "works.html",
+			"settings":
+			{
+				"buffer_size": 9261,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/_gaga-page-works.sass",
+			"settings":
+			{
+				"buffer_size": 2121,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/_gaga-page-about.sass",
+			"settings":
+			{
+				"buffer_size": 2242,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/_gaga-variables.sass",
+			"settings":
+			{
+				"buffer_size": 1219,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/_bootstrap-variables.sass",
+			"settings":
+			{
+				"buffer_size": 29001,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "javascripts/config.js",
+			"settings":
+			{
+				"buffer_size": 389,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/_gaga-main.sass",
+			"settings":
+			{
+				"buffer_size": 236,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/_gaga-grid.sass",
+			"settings":
+			{
+				"buffer_size": 495,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/_gaga-navbar.sass",
+			"settings":
+			{
+				"buffer_size": 1526,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/styles.sass",
+			"settings":
+			{
+				"buffer_size": 544,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/_gaga-bootstrap.sass",
+			"settings":
+			{
+				"buffer_size": 598,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "html",
+		"selected_items":
+		[
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"json",
+				"Preferences: Pretty JSON Settings - Default"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"pretty",
+				"HTMLPrettify"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 583.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/subojia/Sites/gagaCollection",
+		"/Users/subojia/Sites/gagaCollection/images",
+		"/Users/subojia/Sites/gagaCollection/images/works",
+		"/Users/subojia/Sites/gagaCollection/images/works/cover",
+		"/Users/subojia/Sites/gagaCollection/javascripts",
+		"/Users/subojia/Sites/gagaCollection/sass"
+	],
+	"file_history":
+	[
+		"/Users/subojia/Sites/gagaCollection/sass/_gaga-navbarOpen.sass",
+		"/Users/subojia/Sites/gagaCollection/sass/_gaga-navbar.sass",
+		"/Users/subojia/Sites/gagaCollection/sass/_gaga-about.sass",
+		"/Users/subojia/Sites/gagaCollection/sass/_gaga-page-works.sass",
+		"/Users/subojia/Sites/gagaCollection/sass/_bootstrap-variables.sass",
+		"/Users/subojia/Sites/gagaCollection/javascripts/config.js",
+		"/Users/subojia/Sites/gagaCollection/sass/styles.sass",
+		"/Users/subojia/Sites/gagaCollection/sass/_about.sass",
+		"/Users/subojia/Sites/gagaCollection/template.html",
+		"/Users/subojia/Sites/gagaCollection/gagaCollection",
+		"/Users/subojia/PycharmProjects/Trackster/static/javascripts/signupForm.js",
+		"/Users/subojia/PycharmProjects/Trackster/static/javascripts/modals/config-od-payment.js",
+		"/Users/subojia/PycharmProjects/Trackster/static/javascripts/modals/config-pj-editproject.js",
+		"/Users/subojia/PycharmProjects/Trackster/static/javascripts/modals/config-sv-addservice.js",
+		"/Users/subojia/PycharmProjects/Trackster/static/javascripts/modals/config-pj-addproject.js",
+		"/Users/subojia/PycharmProjects/Trackster/static/javascripts/modals/config-qu-orderReply.js",
+		"/Users/subojia/PycharmProjects/Trackster/static/javascripts/modals/config-sx-jointobid.js",
+		"/Users/subojia/PycharmProjects/Trackster/static/javascripts/modals/config-sv-orderService.js",
+		"/Users/subojia/Library/Application Support/Sublime Text 3/Packages/Pretty JSON/Pretty JSON.sublime-settings",
+		"/Users/subojia/PycharmProjects/Trackster/static/javascripts/modals/config-sv-editservice.js",
+		"/Users/subojia/PycharmProjects/Trackster/static/teststatic/jsgrid.js",
+		"/Users/subojia/Library/Application Support/Sublime Text 3/Packages/User/Pretty JSON.sublime-settings",
+		"/Users/subojia/PycharmProjects/Trackster/static/javascripts/modals/config-pj-addTracks.js",
+		"/Users/subojia/PycharmProjects/Trackster/static/javascripts/config-dataTables.js",
+		"/Users/subojia/PycharmProjects/Trackster/static/javascripts/config.js",
+		"/Users/subojia/PycharmProjects/Trackster/static/javascripts/modals/config-pj-projectOrder.js",
+		"/Users/subojia/PycharmProjects/Trackster/static/javascripts/modals/config-pj-projectOrder-servicesList.js",
+		"/Users/subojia/PycharmProjects/Trackster/static/javascripts/modals/config-pj-projectOrder-serviceSingle.js",
+		"/Users/subojia/PycharmProjects/Trackster/static/javascripts/modals/config-pj-projectOrder-serviceSelectTrack.js",
+		"/Users/subojia/PycharmProjects/Trackster/static/javascripts/modals/config-gl-userMessagesChat.js",
+		"/Users/subojia/PycharmProjects/Trackster/static/javascripts/userSetting.js",
+		"/Users/subojia/PycharmProjects/Trackster/templates/services.html",
+		"/Users/subojia/PycharmProjects/Trackster/static/javascripts/loginForm.js",
+		"/Users/subojia/PycharmProjects/Trackster/templates/service-single.html",
+		"/Users/subojia/PycharmProjects/Trackster/templates/modals/pj-projectOrder.html",
+		"/Users/subojia/PycharmProjects/Trackster/templates/modals/pj-orderProject.html",
+		"/Users/subojia/PycharmProjects/Trackster/templates/upload.html",
+		"/Users/subojia/PycharmProjects/Trackster/templates/modals/pj-orderServiceFromProject.html",
+		"/Users/subojia/PycharmProjects/Trackster/static/sass/_trackster-component-dropzone.sass",
+		"/Users/subojia/PycharmProjects/Trackster/static/sass/_bootstrap-variables.sass",
+		"/Users/subojia/PycharmProjects/Trackster/static/sass/_trackster-bs-buttons.sass",
+		"/Users/subojia/PycharmProjects/Trackster/static/sass/styles.sass",
+		"/Users/subojia/PycharmProjects/Trackster/static/sass/_trackster-layout-controlPanel.sass",
+		"/Users/subojia/PycharmProjects/Trackster/static/sass/_trackster-component-dataTbale.sass",
+		"/Users/subojia/PycharmProjects/Trackster/static/sass/_trackster-layout-navbar.sass",
+		"/Users/subojia/PycharmProjects/Trackster/static/sass/_trackster-bs-tabs.sass",
+		"/Users/subojia/PycharmProjects/Trackster/templates/myTracks.html",
+		"/Users/subojia/PycharmProjects/Trackster/templates/extends/trackster-controlPanel-signed.html",
+		"/Users/subojia/PycharmProjects/Trackster/templates/project-single.html",
+		"/Users/subojia/PycharmProjects/Trackster/templates/projects.html",
+		"/Users/subojia/PycharmProjects/Trackster/templates/modals/sv-addServiceTrack.html",
+		"/Users/subojia/PycharmProjects/Trackster/templates/extends/trackster-jsFiles.html",
+		"/Users/subojia/PycharmProjects/Trackster/templates/login.html",
+		"/Users/subojia/PycharmProjects/Trackster/templates/index.html",
+		"/Users/subojia/PycharmProjects/Trackster/templates/service.html",
+		"/Users/subojia/PycharmProjects/Trackster/templates/extends/trackster-template.html",
+		"/Users/subojia/PycharmProjects/Trackster/templates/extends/trackster-userMessages.html",
+		"/Users/subojia/PycharmProjects/Trackster/templates/extends/trackster-userSetting.html",
+		"/Users/subojia/PycharmProjects/Trackster/templates/error.html",
+		"/Users/subojia/PycharmProjects/Trackster/templates/extends/trackster-userNotifications.html",
+		"/Users/subojia/PycharmProjects/Trackster/templates/order-single.html",
+		"/Users/subojia/PycharmProjects/Trackster/templates/extends/trackster-controlPanel.html",
+		"/Users/subojia/PycharmProjects/Trackster/templates/recent-artist.html",
+		"/Users/subojia/PycharmProjects/Trackster/templates/signup.html",
+		"/Users/subojia/PycharmProjects/Trackster/templates/modals/sx-rejectToBidder.html",
+		"/Users/subojia/PycharmProjects/Trackster/templates/modals/sx-form.html",
+		"/Users/subojia/PycharmProjects/Trackster/templates/modals/sv-addService.html",
+		"/Users/subojia/PycharmProjects/Trackster/templates/sx-single-studio.html",
+		"/Users/subojia/PycharmProjects/Trackster/templates/sx-single.html",
+		"/Users/subojia/PycharmProjects/Trackster/templates/modals/sv-edtService.html",
+		"/Users/subojia/PycharmProjects/Trackster/templates/extends/trackster-mixer.html",
+		"/Users/subojia/PycharmProjects/Trackster/templates/modals/pj-addTracks.html",
+		"/Users/subojia/PycharmProjects/Trackster/templates/sx-single-project.html",
+		"/Users/subojia/PycharmProjects/Trackster/templates/sx.html",
+		"/Users/subojia/PycharmProjects/Trackster/templates/orders.html",
+		"/Users/subojia/PycharmProjects/Trackster/templates/modals/od-payment.html",
+		"/Users/subojia/PycharmProjects/Trackster/templates/extends/trackster-bsModal.html",
+		"/Users/subojia/PycharmProjects/Trackster/templates/modals/pj-addProject.html",
+		"/Users/subojia/PycharmProjects/Trackster/templates/modals/sv-orderService.html",
+		"/Users/subojia/PycharmProjects/Trackster/templates/modals/sx-studio_jointobid.html",
+		"/Users/subojia/PycharmProjects/Trackster/templates/queue-single.html",
+		"/Users/subojia/PycharmProjects/Trackster/templates/modals/pj-addBrowse.html",
+		"/Users/subojia/PycharmProjects/Trackster/templates/extends/trackster-signupModal.html",
+		"/Users/subojia/PycharmProjects/Trackster/templates/index-components.html",
+		"/Users/subojia/PycharmProjects/Trackster/static/javascripts/jquery-1.12.4.min.js",
+		"/Users/subojia/PycharmProjects/Trackster/templates/xs-single.html",
+		"/Users/subojia/PycharmProjects/Trackster/templates/mySongs.html",
+		"/Users/subojia/PycharmProjects/Trackster/static/sass/_trackster-component-toggleSwitch.sass",
+		"/Users/subojia/PycharmProjects/Trackster/static/sass/_trackster-layout-service.sass",
+		"/Users/subojia/PycharmProjects/Trackster/templates/modals/sv-addService.html.bak.html",
+		"/Users/subojia/PycharmProjects/Trackster/static/javascripts/test.js",
+		"/Users/subojia/PycharmProjects/Trackster/templates/bak/myTracks.html.bak.html",
+		"/Users/subojia/PycharmProjects/Trackster/static/javascripts/config-dataTable.js",
+		"/Users/subojia/PycharmProjects/Trackster/static/javascripts/config-tracks-mytrack.js",
+		"/Users/subojia/PycharmProjects/Trackster/static/sass/_trackster-variables.sass",
+		"/Users/subojia/PycharmProjects/Trackster/static/sass/_trackster-layout-projects.sass",
+		"/Users/subojia/PycharmProjects/Trackster/templates/upload_test.html",
+		"/Users/subojia/PycharmProjects/Trackster/static/javascripts/config-pj-addproject.js",
+		"/Users/subojia/PycharmProjects/Trackster/templates/test/signup.html",
+		"/Users/subojia/PycharmProjects/Trackster/templates/test/login.html",
+		"/Users/subojia/PycharmProjects/Trackster/static/sass/_trackster-player.sass",
+		"/Users/subojia/PycharmProjects/Trackster/static/sass/_trackster-layout-openMixer.sass",
+		"/Users/subojia/PycharmProjects/Trackster/static/sass/_trackster-bs-modals.sass",
+		"/Users/subojia/PycharmProjects/Trackster/templates/extends/trackster-cssFiles.html",
+		"/Users/subojia/PycharmProjects/Trackster/static/sass/_trackster-typography.sass",
+		"/Users/subojia/PycharmProjects/Trackster/static/sass/_trackster-fonts.sass",
+		"/Users/subojia/PycharmProjects/Trackster/static/sass/_trackster-bs-dropdown.sass",
+		"/Users/subojia/PycharmProjects/Trackster/templates/feedback.html",
+		"/Users/subojia/PycharmProjects/Trackster/templates/about.html",
+		"/Users/subojia/PycharmProjects/Trackster/templates/recent-studio.html",
+		"/Users/subojia/PycharmProjects/Trackster/templates/TnC.html",
+		"/Users/subojia/PycharmProjects/Trackster/static/sass/_trackster-layout-content.sass",
+		"/Users/subojia/PycharmProjects/Trackster/templates/extends/trackster-player.html",
+		"/Users/subojia/PycharmProjects/Trackster/static/sass/_trackster-grid.sass",
+		"/Users/subojia/PycharmProjects/Trackster/templates/extends/trackster-controlPanel-notsigned.html",
+		"/Users/subojia/PycharmProjects/Trackster/static/sass/_trackster-component-switchery.sass",
+		"/Users/subojia/PycharmProjects/Trackster/static/sass/_trackster-component-alert.sass",
+		"/Users/subojia/Sites/tracksterN/static/sass/_trackster-variables.sass",
+		"/Users/subojia/Sites/tracksterN/static/sass/_trackster-grid.sass",
+		"/Users/subojia/Sites/tracksterN/static/sass/styles.sass",
+		"/Users/subojia/Sites/tracksterN/static/sass/_trackster-layout-projects.sass",
+		"/Users/subojia/Sites/tracksterN/templates/extends/trackster-controlPanel-signed.html",
+		"/Users/subojia/Sites/tracksterN/templates/extends/trackster-template.html",
+		"/Users/subojia/Sites/tracksterN/static/sass/_trackster-bs-form.sass",
+		"/Users/subojia/Sites/tracksterN/static/sass/_trackster-component-uiwidget.sass",
+		"/Users/subojia/Sites/tracksterN/static/datas/collaList",
+		"/Users/subojia/Sites/tracksterN/routes/index.js",
+		"/Users/subojia/Sites/tracksterN/templates/project-single.html"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"<open files>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"xs",
+			"head",
+			"md",
+			"999",
+			"999999",
+			"hover",
+			"dropzon",
+			"datepicker",
+			"input-group",
+			"date",
+			"expectDate",
+			"hide.bs.modal",
+			"swal",
+			"setting",
+			"icon-trackster-setting",
+			"setting",
+			"userSet",
+			"delete_croppic",
+			"userSetUploadCoverImgBtn",
+			"userSetImg",
+			"cropControlRemoveCroppedImage",
+			"delete_croppic",
+			"newServiceImg",
+			"delete_croppic",
+			"oldServiceImgName",
+			"console.log",
+			"serviceCoverImgPath",
+			"tracksterModalLG",
+			"tracksterModal",
+			"tracksterModalLG",
+			"tracksterModal",
+			"tracksterModalLG",
+			"tracksterModal",
+			"uploadCoverImgBtn",
+			"projectCoverImgPath",
+			"split",
+			"delete_croppic",
+			"scrollToBottom",
+			"scroll-pane",
+			"scroll",
+			"scrollPane",
+			"stripe",
+			"selectpicker",
+			"gridBodyClass",
+			"jsgrid-grid-body",
+			"width",
+			"100",
+			"100,",
+			"trackTypeSelector",
+			"hasChild",
+			"progress",
+			"colla",
+			"removeColla",
+			"colla",
+			"off",
+			"#pjodBtn-NextTo4",
+			"url(\"?",
+			"?f",
+			"active",
+			"url('",
+			"mTracks",
+			"sTracks",
+			"url('?'",
+			"t=",
+			"url(2)",
+			"mTrack",
+			"createProject",
+			"projectCoverImgPath",
+			"delete_croppic",
+			".project-img",
+			"load(",
+			"console.log",
+			"mTracks_li",
+			"paneUpload",
+			"32",
+			"inputExceptDeliveriedDate",
+			"rejectOrder",
+			"load(",
+			"load",
+			"	",
+			"weight",
+			"play",
+			"serviceContent",
+			", '",
+			"accountMessages",
+			"accountSetting",
+			"cInfo",
+			"control-label",
+			"select",
+			"queue",
+			"Queue",
+			"order",
+			"queue",
+			"order",
+			"queue",
+			"order",
+			"\n                                <div class=\"menu\">\n                                    <div class=\"dropdown\">\n                                        <button class=\"btn btn-trackster-normalGolden\" type=\"button\" id=\"dropdownMenu1\" data-toggle=\"dropdown\" aria-haspopup=\"true\" aria-expanded=\"true\"><i class=\"icon-trackster-list\"></i></button>\n                                        <ul class=\"dropdown-menu dropdown-menu-right\" aria-labelledby=\"dropdownMenu1\">\n                                            <li><a href=\"#\">Item</a></li>\n                                            <li><a href=\"#\">SX</a></li>\n                                            <li><a href=\"#\">Order</a></li>\n                                        </ul>\n                                    </div>\n                                </div>",
+			"\"static",
+			"newqueue",
+			"detail",
+			"Detail",
+			"queueDetail",
+			"service",
+			"Service",
+			"Services",
+			"services",
+			"&:focus",
+			"btn-link",
+			"52 REVEWS",
+			" panel-default",
+			"myTrackList",
+			"table_myTrackList",
+			"table-myTrackList",
+			"myTrackList",
+			"SongList",
+			"myTrackLists",
+			"SongList",
+			"croppic",
+			" \n",
+			"updateTrack(",
+			"updateTrack",
+			"editable",
+			"edtInstrument",
+			"SongList",
+			"service",
+			"service-trackBtn",
+			"icon-trackster-revew",
+			"\n                                            <div class=\"menu\">\n                                                <div class=\"dropdown\">\n                                                    <button class=\"btn btn-trackster-normalGolden\" type=\"button\" id=\"dropdownMenu1\" data-toggle=\"dropdown\" aria-haspopup=\"true\" aria-expanded=\"true\"><i class=\"icon-trackster-list\"></i></button>\n                                                    <ul class=\"dropdown-menu dropdown-menu-right\" aria-labelledby=\"dropdownMenu1\">\n                                                        <li><a href=\"#\">Item</a></li>\n                                                        <li><a href=\"#\">SX</a></li>\n                                                        <li><a href=\"#\">Order</a></li>\n                                                    </ul>\n                                                </div>\n                                            </div>"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			".service-img",
+			"    ",
+			",\n'",
+			"accountNotifications",
+			"accountMessages",
+			"",
+			"order",
+			"Order",
+			"sx",
+			"order",
+			"",
+			"\"/static",
+			"queue",
+			"Queue",
+			"Queues",
+			"queues",
+			"btn-selectpicker-black",
+			"52 REVIEWS",
+			"",
+			"processedTrackList",
+			"table_processedTrackList",
+			"table-processedTrackList",
+			"processedTrackList",
+			"myTrackList",
+			"TrackList",
+			"icon-trackster-review",
+			"",
+			"<i class=\"icon-trackster-edit\"></i>",
+			"",
+			"audio data-src=\"{{ url_for('static', filename='uploads/a.wav')}}\"",
+			"audio data-fileSrc=\"{{ url_for('static', filename='uploads/a.wav')}}\"",
+			"audio src=\"{{ url_for('static', filename='uploads/a.wav')}}\"",
+			"src=\"{{ url_for('static', filename='images/fakeimg/016.jpg')}}\" alt=\"Service cover\"",
+			"\n                                            <div class=\"name\">\n                                                <a href=\"/service/service-name\">Studio Name</a>\n                                            </div>\n                                            <span class=\"price\"><i class=\"icon-trackster-price\"></i> 35</span>\n                                            <span class=\"revew\"><i class=\"icon-trackster-revew\"></i> 52 revews</span>",
+			"Shawn Geist is Trackster Studio's in-house engineer. Shawn has 15 years' experieince",
+			"\n                                <span class=\"likes\"><i class=\"icon-trackster-favorite\"></i> 377</span>\n                                <span class=\"hits\"><i class=\"icon-trackster-listen\"></i> 527</span>\n                                <div class=\"trackster-toggleSwitch\">\n                                    <input type=\"checkbox\" class=\"toggleswitch\" id=\"project-1\">\n                                    <label for=\"project-1\">Toggle</label>\n                                </div>",
+			"	",
+			"",
+			"class=\"radio checkbox-success",
+			"class=\"radiio checkbox-success",
+			"class=\"checkbox checkbox-success",
+			"'",
+			"_",
+			"pjColla",
+			"uploadCoverImgBtn",
+			"<!-- <audio src=\"uploads/b.mp3\"></audio> -->",
+			"",
+			"/uploads/b.mp3",
+			"/project/project-name",
+			"/project//project-name",
+			"/service/service-name",
+			"",
+			"container",
+			"content",
+			"",
+			"<a href=\"/project-single\">Project Name</a>",
+			"<a href=\"/service-name\">Service Name</a>",
+			"",
+			"<div class=\"intro\">\n                                        <p>",
+			"intro",
+			"detail",
+			"<p>Shawn Geist is Trackster Studio's in-house engineer. Shawn has 15 years' experieince and has mixed hundreds of songs in a wide   .... variety of styles. Shawn is particularly adept at creating killer mixes for heavier rock projects and has recently worked closely with Nu Sprot and Keghammer. You may send Shawn up to 15 tracks. He will send those tracks back in their altered form along with one killer mix.</p>",
+			"Service Name",
+			"a.wav",
+			"service",
+			"Service Name",
+			"price",
+			"revew",
+			"service",
+			"'",
+			"",
+			"	",
+			"",
+			"	",
+			"login",
+			"><",
+			"",
+			"signup",
+			"",
+			";\n",
+			"../fonts/trackster/",
+			"	",
+			"",
+			"p",
+			"\"></i>",
+			"<i class=\"icon ",
+			"<i class=\"icon icon-trackster-favorite\"></i>",
+			"",
+			"\"../fonts/trackster/",
+			"\"../trackster/fonts/",
+			"\"../fonts/",
+			"	",
+			"</i> icon",
+			"",
+			"trackster-badge",
+			"",
+			"	",
+			"../fonts/",
+			"fonts/trackster/",
+			"	",
+			"",
+			"color-golden",
+			"'",
+			"",
+			" ",
+			"",
+			"	",
+			"th",
+			"	",
+			"th",
+			"	",
+			"",
+			"	",
+			"",
+			"\n					<li class=\"dropdown\">\n						<a href=\"#\" class=\"dropdown-toggle\" data-toggle=\"dropdown\" role=\"button\" aria-haspopup=\"true\" aria-expanded=\"false\" data-tooltip=\"navbarTooltip\" data-placement=\"bottom\" title=\"Your garage manager\" data-trigger=\"hover\">\n							<i class=\"fa fa-lg fa-plus\" aria-hidden=\"true\"></i>\n							<span class=\"caret\"></span>\n						</a>\n						<ul class=\"dropdown-menu\">\n							<li><a href=\"#\">車庫管理</a></li>\n							<li><a href=\"motor-addrecord.html\">增加紀錄</a></li>\n							<!-- <li><a href=\"#\">圖表輸出</a></li> -->\n						</ul>\n					</li>",
+			"navbar-fixed-top",
+			"	",
+			"type=\"text\"",
+			"type=\"number\"",
+			"",
+			"frontend/images/2016_WISE_LOGO.png",
+			"// required: true",
+			"required: true",
+			"saveDataMsg4",
+			"// required: true",
+			"",
+			"required: \"請填寫此欄位\"",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "contact.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3145,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1368,
+								1368
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										1365,
+										1367
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/tag.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										1365,
+										1367
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 539.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 23365,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1368,
+								1368
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										1365,
+										1367
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/tag.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										1365,
+										1367
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 400.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "works.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9261,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5466,
+								5466
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										5466,
+										5467
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/double_quote.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										5459,
+										5460
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1653.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "sass/_gaga-page-works.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2121,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1515,
+								1515
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 940.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "sass/_gaga-page-about.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2242,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1636,
+								1636
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1118.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "sass/_gaga-variables.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1219,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "sass/_bootstrap-variables.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 29001,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1344,
+								1344
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										1344,
+										1345
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/double_quote.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										1337,
+										1338
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 578.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "javascripts/config.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 389,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								160,
+								160
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										386,
+										387
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										29,
+										30
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "sass/_gaga-main.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 236,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								214,
+								214
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "sass/_gaga-grid.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 495,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								27,
+								27
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "sass/_gaga-navbar.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1526,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1522,
+								1522
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "sass/styles.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 544,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								137,
+								137
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "sass/_gaga-bootstrap.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 598,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								598,
+								598
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										597,
+										598
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/single_quote.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										591,
+										592
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 112.0
+	},
+	"pinned_build_system": "",
+	"project": "gagaCollection.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 251.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,14 @@
+body
+	background-color: $black-bright
+	color: $white
+	font-weight: 200
+
+.highlight
+	color: $main-color
+
+a
+	// color: $white
+	color: $main-color
+	+ts(all, 0.25s, ease-in-out)
+	&:hover, &:focus, &:active
+		color: lighten($main-color, 5%)

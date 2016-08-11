@@ -1,0 +1,27 @@
+.panel-gaga
+	+panel-variant(transparent, $black-bright, $black-light, transparent)
+	background-color: $black-light
+	border: none
+	+border-radius(0)
+	.panel-heading
+		color: $main-color
+		font-size: 18px
+		font-weight: 500
+		+border-radius(0)
+		.panel-title
+			a
+				display: block
+				position: relative
+				text-transform: uppercase
+				&:after
+					font: normal normal normal 14px/1 FontAwesome
+					line-height: 17px
+					position: absolute
+					top: 0
+					right: 0
+				&[aria-expanded="true"]
+					&:after
+						content: '\f106'
+				&[aria-expanded="false"]
+					&:after
+						content: '\f107'

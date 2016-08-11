@@ -1,0 +1,109 @@
++keyframes(showWorkBlock)
+	0%
+		+opacity(0)
+	100%
+		+opacity(1)
+.filterBar
+	display: block
+	width: 100%
+	height: 100px
+.works-list
+	&:after, &:before
+		content: ''
+		display: table
+	&:before
+		clear: both
+	.work-single
+		float: left
+		position: relative
+		display: block
+		width: 50%
+		overflow: hidden
+		// +bp(xs)
+		// 	width: 20%
+		+bp(sm)
+			width: 25%
+		+bp(md)
+			width: 20%
+		&:after
+			content: ""
+			display: block
+			padding-bottom: 100%
+		.work-cover
+			position: absolute
+			display: block
+			width: 100%
+			height: 100%
+			img
+				width: 100%
+				height: auto
+		.work-block
+			position: absolute
+			top: 0
+			left: 0
+			display: block
+			width: 100%
+			height: 100%
+			padding: 10px
+			+opacity(0)
+			+ts(all, 0.25s, ease-in-out)
+			.work-info
+				background-color: rgba(darken($main-color, 20%), 0.9)
+				display: block
+				width: 100%
+				height: 100%
+				padding: 5px
+				position: relative
+				word-break: break-word
+				word-wrap: break-word
+				.work-heading
+					.work-maintitle
+						width: 100%
+						margin: 0 0 10px
+						padding: 0
+						font-size: 24px
+						font-weight: 200
+						text-align: center
+					.work-subtitle
+						border-top: 1px solid $gray-light
+						padding-top: 10px
+						margin: 0 0 10px
+						font-size: 12px
+						text-align: center
+					.work-link
+						display: none
+				.work-descriptions
+					display: none
+					// .requester
+					// .projectdate
+				+bp(md)
+					padding: 10px
+					.work-heading
+						.work-maintitle
+							text-align: left
+							font-size: 28px
+						.work-subtitle
+							border-top: none
+							font-size: 20px
+							text-align: left
+						.work-link
+							color: $main-color
+							// color: $gray-light
+							display: block
+							font-size: 12px
+					.work-descriptions
+						display: none
+						position: absolute
+						bottom: 0
+						// .requester
+						// .projectdate
+		&:hover, .showWorkBlock
+			.work-block
+				// +animation(showWorkBlock 0.25s linear)
+				// +animation-iteration-count(1)
+				// +animation-fill-mode(forwards)
+				+opacity(1)
+				// .work-info
+				// 	.work-heading
+				// 	.work-descriptions
+				// 		bottom: -100%

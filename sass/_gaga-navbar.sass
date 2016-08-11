@@ -1,0 +1,83 @@
+.navbar-button
+	background-color: $black-dark
+	position: fixed
+	top: 15px
+	left: 15px
+	z-index: 2000
+	display: block
+	width: 28px
+	height: 28px
+	padding: 5px
+	+ts(all, 0.25s, ease-in-out)
+	+bp(md)
+		display: none
+	.sr-only
+		display: none
+	.icon-bar
+		background-color: $main-color
+		display: block
+		width: 17px
+		height: 3px
+		margin-bottom: 4px
+		&:last-child
+			margin-bottom: 0
+	&:hover, &:focus, &:active
+		background-color: $black-bright
+		cursor: pointer
+		.icon-bar
+			background-color: lighten($main-color, 10%)
+.navbar
+	.brand
+		margin-bottom: 20px
+		margin-top: 60px
+		text-align: center
+		img
+			width: 130px
+			height: 130px
+		.brand-desc
+			text-align: left
+			font-size: 12px
+			margin: 20px auto 0
+			width: 130px
+		+bp(md)
+			img
+				width: 180px
+				height: 180px
+			.brand-desc
+				font-size: 16px
+				width: 180px
+	ul.navmenu
+		list-style: none
+		padding: 0
+		margin: 40px 0
+		li
+			a
+				color: $main-color
+				background-position: top left
+				background-repeat: no-repeat
+				background-size: cover
+				display: block
+				font-size: 24px
+				font-weight: 200
+				text-align: center
+				text-transform: uppercase
+				padding: 12px 0
+				+ts(all, 0.25s, ease-in-out)
+				&:hover, &:focus, &:active
+					color: $white
+			&.active
+				a
+					color: $white
+					background-image: url("../images/bg-menu.svg")
+		+bp(md)
+			li
+				a
+					padding: 12px 0 12px 60px
+					text-align: left
+	.copyright
+		color: $gray-dark
+		font-size: 12px
+		text-align: center
+		+bp(md)
+			text-align: left
+			padding: 0 0 0 60px
