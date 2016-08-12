@@ -1,0 +1,60 @@
+// Custom Buttons
+.btn-close
+	display: block
+	width: 22px
+	height: 22px
+	padding: 5px
+	box-sizing: content-box
+	&:before, &:after
+		height: 2px
+		background-color: $gray-light
+		width: 31px
+		display: block
+		content: ''
+		+ts(all, 0.25s, ease-in-out)
+	&:before
+		+transform(rotate(45deg))
+		margin-top: 10px
+		margin-left: -4px
+	&:after
+		+transform(rotate(-45deg))
+		margin-top: -1px
+		margin-left: -4px
+	&:hover
+		cursor: pointer
+		&:before, &:after
+			background-color: $white
+// Modal background
+.modal-backdrop
+	position: fixed
+	top: 0
+	right: 0
+	bottom: 0
+	left: 0
+	z-index: $zindex-modal-background
+	background-color: $modal-backdrop-bg
+	// Fade for backdrop
+	&.fade
+		+opacity(0)
+	&.in
+		+opacity(1)
+		background-image: rgba($black-dark, 0.75)
+		background-repeat: no-repeat
+		background-size: cover
+		background-color: rgba($black-dark, 0.9)
+
+.modal-content
+	position: relative
+	background-color: transparent
+	border: none
+	+border-radius(0)
+	+box-shadow(none)
+	background-clip: padding-box
+	// Remove focus outline from opened modal
+	outline: 0
+.modal-header
+	border-bottom: none
+	h1.modal-title
+		font-weight: 200
+		color: $main-color
+		// +text-shadow(rgba($gray-light, 0.75) 1px 1px 1px)
