@@ -11,31 +11,38 @@
 
 <body class="about">
     <div class="wrapper">
-        <div class="navbar-button">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-        </div>
-        <div class="navbar">
-            <div class="brand">
-            	<a href="index.html">
-                	<img src="images/site-brand.svg" alt="GAGA">
-            	</a>
-                <div class="brand-desc">
-                    SU BO-JIA
-                    <br /> Profile and Collections.
+        <nav class="navbar">
+            <div class="navbar-top-brand">
+                <a href="index.html">
+                    <img src="images/site-brand.svg" alt="GAGA">
+                </a>
+            </div>
+            <div class="navbar-button navmenu-toggle">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </div>
+            <div class="navbar-menu">
+                <div class="brand">
+                    <a href="index.html">
+                        <img src="images/site-brand.svg" alt="GAGA">
+                    </a>
+                    <div class="brand-desc">
+                        SU BO-JIA
+                        <br /> Profile and Collections.
+                    </div>
+                </div>
+                <ul class="navmenu">
+                    <li class="active"><a href="index.html">About</a></li>
+                    <li><a href="works.html">Works</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+                <div class="copyright">
+                    Copyright &copy; 2011-2016 Bo-Jia, Su.<br>All rights reserved.
                 </div>
             </div>
-            <ul class="navmenu">
-                <li class="active"><a href="index.html">About</a></li>
-                <li><a href="works.html">Works</a></li>
-                <li><a href="contact.html">Contact</a></li>
-            </ul>
-            <div class="copyright">
-                Copyright &copy; 2011-2016 Bo-Jia, Su.<br>All rights reserved.
-            </div>
-        </div>
+        </nav>
         <div class="content">
             <div class="cover">
                 <img src="images/cover_2.jpg" height="420" width="1170" alt="Cover">
@@ -66,7 +73,7 @@
                         <section id="resumeEducation">
                             <div class="panel panel-gaga">
                                 <div class="panel-heading" role="tab" id="heading-education">
-                                    <h4 class="panel-title"><a role="button" data-toggle="collapse" data-parent="#resumeEducation" href="#collapseEducation" aria-expanded="false" aria-controls="collapseEducation">Education</a>
+                                    <h4 class="panel-title"><a role="button" data-toggle="collapse" data-parent="#resumeEducation" href="#collapseEducation" aria-expanded="false" aria-controls="collapseEducation"><i class="fa fa-graduation-cap"></i> Education</a>
                                     </h4>
                                 </div>
                                 <div id="collapseEducation" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingEducation">
@@ -86,7 +93,7 @@
                         <section id="resumeAwards">
                             <div class="panel panel-gaga">
                                 <div class="panel-heading" role="tab" id="heading-awards">
-                                    <h4 class="panel-title"><a role="button" data-toggle="collapse" data-parent="#resumeAwards" href="#collapseAwards" aria-expanded="true" aria-controls="collapseAwards">Awards</a>
+                                    <h4 class="panel-title"><a role="button" data-toggle="collapse" data-parent="#resumeAwards" href="#collapseAwards" aria-expanded="true" aria-controls="collapseAwards"><i class="fa fa-trophy"></i> Awards</a>
                                     </h4>
                                 </div>
                                 <div id="collapseAwards" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingAwards">
@@ -139,7 +146,7 @@
                         <section id="resumeExhibition">
                             <div class="panel panel-gaga">
                                 <div class="panel-heading" role="tab" id="heading-exhibition">
-                                    <h4 class="panel-title"><a role="button" data-toggle="collapse" data-parent="#resumeExhibition" href="#collapseExhibition" aria-expanded="false" aria-controls="collapseExhibition">Exhibition</a>
+                                    <h4 class="panel-title"><a role="button" data-toggle="collapse" data-parent="#resumeExhibition" href="#collapseExhibition" aria-expanded="false" aria-controls="collapseExhibition"><i class="fa fa-picture-o"></i> Exhibition</a>
                                     </h4>
                                 </div>
                                 <div id="collapseExhibition" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingExhibition">
@@ -163,7 +170,7 @@
                         <section id="resumeSkill">
                             <div class="panel panel-gaga">
                                 <div class="panel-heading" role="tab" id="heading-skill">
-                                    <h4 class="panel-title"><a role="button" data-toggle="collapse" data-parent="#resumeSkill" href="#collapseSkill" aria-expanded="false" aria-controls="collapseSkill">Skill</a>
+                                    <h4 class="panel-title"><a role="button" data-toggle="collapse" data-parent="#resumeSkill" href="#collapseSkill" aria-expanded="false" aria-controls="collapseSkill"><i class="fa fa-thumbs-up"></i> Skill</a>
                                     </h4>
                                 </div>
                                 <div id="collapseSkill" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingSkill">
@@ -172,11 +179,30 @@
                                             <div class="col-xs-12">
                                                 <ol class="resumeList">
                                                     <ul>
-                                                        <li>RWD 前端網站開發 (HTML5, CSS3 and jQuery)</li>
-                                                        <li>平面設計 (Adobe Illustrator, Photoshop, Sketch)</li>
+                                                        <li>RWD 前端網站開發</li>
+                                                        <li class="resumeList-icon">
+                                                            <i class="sw sw-swicons_html5" data-toggle="tooltip" data-placement="top" title="HTML 5"></i>
+                                                            <i class="sw sw-swicons_css3" data-toggle="tooltip" data-placement="top" title="CSS 3"></i>
+                                                            <i class="sw sw-swicons_jquery" data-toggle="tooltip" data-placement="top" title="Javascripts (jQuery)"></i>
+                                                        </li>
+                                                        
+                                                        <li>平面設計</li>
+                                                        <li class="resumeList-icon">
+                                                            <i class="sw sw-swicons_illustrator" data-toggle="tooltip" data-placement="top" title="Illustrator"></i>
+                                                            <i class="sw sw-swicons_photoshop" data-toggle="tooltip" data-placement="top" title="Photoshop"></i>
+                                                        </li>
+
                                                         <li>使用者介面 / 使用者經驗設計</li>
-                                                        <li>互動感測裝置設計 (Arduino)</li>
-                                                        <li>後端網站開發 (LAMP, Python, Node.js)</li>
+                                                        <li>互動感測裝置設計</li>
+                                                        <li class="resumeList-icon">
+                                                            <i class="sw sw-swicons_flash" data-toggle="tooltip" data-placement="top" title="Flash (Actionscript 3.0)"></i>
+                                                            <i class="sw sw-swicons_arduino" data-toggle="tooltip" data-placement="top" title="Arduino"></i>
+                                                        </li>
+                                                        <li>後端網站開發 (LAMP)</li>
+                                                        <li class="resumeList-icon">
+                                                            <i class="sw sw-swicons_python" data-toggle="tooltip" data-placement="top" title="Python"></i>
+                                                            <i class="sw sw-swicons_nodejs" data-toggle="tooltip" data-placement="top" title="Node.js"></i>
+                                                        </li>
                                                     </ul>
                                                     <ul>
                                                         <li><span class="text-muted">Tools: </span>Bootstrap 3, Compass (SASS), SublimeText3, Linux, Git (Bitbucket), Trello</li>
@@ -193,7 +219,7 @@
                         <section id="resumeWrokexp">
                             <div class="panel panel-gaga">
                                 <div class="panel-heading" role="tab" id="heading-wrokexp">
-                                    <h4 class="panel-title"><a role="button" data-toggle="collapse" data-parent="#resumeWrokexp" href="#collapseWrokexp" aria-expanded="false" aria-controls="collapseWrokexp">Work Experience</a>
+                                    <h4 class="panel-title"><a role="button" data-toggle="collapse" data-parent="#resumeWrokexp" href="#collapseWrokexp" aria-expanded="false" aria-controls="collapseWrokexp"><i class="fa fa-briefcase"></i> Work Experience</a>
                                     </h4>
                                 </div>
                                 <div id="collapseWrokexp" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingWrokexp">
@@ -238,7 +264,7 @@
                         <section id="resumeProjectexp">
                             <div class="panel panel-gaga">
                                 <div class="panel-heading" role="tab" id="heading-projectexp">
-                                    <h4 class="panel-title"><a role="button" data-toggle="collapse" data-parent="#resumeProjectexp" href="#collapseProjectexp" aria-expanded="false" aria-controls="collapseProjectexp">Project Experience</a>
+                                    <h4 class="panel-title"><a role="button" data-toggle="collapse" data-parent="#resumeProjectexp" href="#collapseProjectexp" aria-expanded="false" aria-controls="collapseProjectexp"><i class="fa fa-lightbulb-o"></i> Project Experience</a>
                                     </h4>
                                 </div>
                                 <div id="collapseProjectexp" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingProjectexp">
@@ -276,10 +302,11 @@
                                                     </ul>
                                                     <ul>
                                                         <li>畢業專題 – Rebottle 互動式燈箱廣告</li>
-                                                        <li class="resumeList-post">負責互動程式設計 (Arduino, ActionScript 3, Facebook API)、視覺設計</li>
+                                                        <li class="resumeList-post">負責專案企劃、互動程式及機台設計、視覺設計</li>
                                                     </ul>
                                                     <ul>
-                                                        <li>流 GATHER - 2015 國立雲林科技大學設計學院聯展形象網站</li>
+                                                        <li>流 GATHER - 2015 雲科大設計學院聯展形象網站</li>
+                                                        <!-- <li>流 GATHER - 2015 國立雲林科技大學設計學院聯展形象網站</li> -->
                                                         <li class="resumeList-description">國立雲林科技大學設計學院</li>
                                                         <li class="resumeList-post">負責網站開發</li>
                                                     </ul>
@@ -296,7 +323,8 @@
                                                         <li class="resumeList-post">負責文創商品設計</li>
                                                     </ul>
                                                     <ul>
-                                                        <li>CooK!SS 國立雲林科技大學 第二屆校園偶像PK大賽</li>
+                                                        <li>CooK!SS 雲科大第二屆校園偶像PK大賽</li>
+                                                        <!-- <li>CooK!SS 國立雲林科技大學 第二屆校園偶像PK大賽</li> -->
                                                         <li class="resumeList-description">國立雲林科技大學數位媒體設計系</li>
                                                         <li class="resumeList-post">負責網站開發、互動程式設計</li>
                                                     </ul>
