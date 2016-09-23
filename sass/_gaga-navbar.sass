@@ -1,32 +1,75 @@
 .navbar-button
 	background-color: $black-dark
-	position: fixed
+	position: absolute
 	top: 15px
-	left: 15px
-	z-index: 2000
 	display: block
 	width: 28px
 	height: 28px
 	padding: 5px
-	+ts(all, 0.25s, ease-in-out)
-	+bp(md)
-		display: none
-	.sr-only
-		display: none
-	.icon-bar
-		background-color: $main-color
-		display: block
-		width: 17px
-		height: 3px
-		margin-bottom: 4px
-		&:last-child
-			margin-bottom: 0
+	cursor: pointer
 	&:hover, &:focus, &:active
 		background-color: $black-bright
 		cursor: pointer
 		.icon-bar
 			background-color: lighten($main-color, 10%)
+	&.navmenu-toggle
+		z-index: 101
+		right: 15px
+		+ts(all, 0.25s, ease-in-out)
+		+bp(md)
+			display: none
+		.sr-only
+			display: none
+		.icon-bar
+			background-color: $main-color
+			display: block
+			width: 17px
+			height: 3px
+			margin-bottom: 4px
+			&:last-child
+				margin-bottom: 0
+	&.previous-button
+		z-index: 1
+		left: 15px
+		+ts(all, 0.25s, ease-in-out)
+		.sr-only
+			display: none
+		.icon-bar
+			background-color: $main-color
+			display: block
+			width: 17px
+			height: 3px
+			margin-top: 3px
+			margin-bottom: 7px
+			+transform(rotate(-45deg))
+			&:last-child
+				margin-bottom: 0
+				+transform(rotate(45deg))
 .navbar
+	background-color: $black-dark
+	position: fixed
+	top: 0
+	left: 0
+	z-index: 9999
+	width: 100%
+	height: 60px
+	border: none
+	margin: 0
+	+box-shadow($black-dark 0 1px 5px)
+	+bp(md)
+		width: 300px
+	.navbar-top-brand
+		position: absolute
+		width: 100%
+		height: 100%
+		padding: 10px 50px
+		text-align: center
+		+bp(md)
+			display: none
+		img
+			height: 40px
+			width: 40px
+.navbar-menu
 	.brand
 		margin-bottom: 20px
 		margin-top: 60px
