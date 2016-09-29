@@ -9399,10 +9399,10 @@ a:hover, a:focus, a:active {
 /* line 2, ../sass/_gaga-page-about.sass */
 .about .cover {
   width: 100%;
-  height: 110px;
+  height: auto;
   overflow: hidden;
 }
-/* line 6, ../sass/_gaga-page-about.sass */
+/* line 7, ../sass/_gaga-page-about.sass */
 .about .cover img {
   width: 100%;
   height: auto;
@@ -9411,17 +9411,17 @@ a:hover, a:focus, a:active {
   /* line 2, ../sass/_gaga-page-about.sass */
   .about .cover {
     width: 100%;
-    height: 350px;
+    height: auto;
     margin: 0 auto;
   }
 }
-/* line 13, ../sass/_gaga-page-about.sass */
+/* line 15, ../sass/_gaga-page-about.sass */
 .about .user {
   height: 80px;
   margin-top: -40px;
   position: relative;
 }
-/* line 17, ../sass/_gaga-page-about.sass */
+/* line 19, ../sass/_gaga-page-about.sass */
 .about .user .mugshot {
   display: block;
   width: 80px;
@@ -9433,48 +9433,48 @@ a:hover, a:focus, a:active {
   -webkit-box-shadow: rgba(24, 24, 24, 0.75) 0 0 2px;
   box-shadow: rgba(24, 24, 24, 0.75) 0 0 2px;
 }
-/* line 24, ../sass/_gaga-page-about.sass */
+/* line 26, ../sass/_gaga-page-about.sass */
 .about .user .mugshot img {
   height: 100%;
   width: 100%;
 }
-/* line 27, ../sass/_gaga-page-about.sass */
+/* line 29, ../sass/_gaga-page-about.sass */
 .about .user .namebox {
   position: absolute;
   top: 0;
   left: 0;
   padding-left: 100px;
 }
-/* line 32, ../sass/_gaga-page-about.sass */
+/* line 34, ../sass/_gaga-page-about.sass */
 .about .user .namebox .chinesename, .about .user .namebox .englishname {
   display: inline-block;
   height: 40px;
   text-shadow: rgba(58, 58, 58, 0.75) 0 0 5px;
 }
-/* line 36, ../sass/_gaga-page-about.sass */
+/* line 38, ../sass/_gaga-page-about.sass */
 .about .user .namebox .chinesename {
   font-size: 26px;
 }
-/* line 39, ../sass/_gaga-page-about.sass */
+/* line 41, ../sass/_gaga-page-about.sass */
 .about .user .namebox .englishname {
   font-size: 18px;
   padding-left: 15px;
 }
-/* line 42, ../sass/_gaga-page-about.sass */
+/* line 44, ../sass/_gaga-page-about.sass */
 .about .user .namebox .jobtitle {
   color: #999999;
   font-size: 18px;
   font-weight: 200;
 }
 @media only screen and (min-width: 992px) {
-  /* line 13, ../sass/_gaga-page-about.sass */
+  /* line 15, ../sass/_gaga-page-about.sass */
   .about .user {
     height: inherit;
     margin-top: -100px;
     position: relative;
     text-align: center;
   }
-  /* line 52, ../sass/_gaga-page-about.sass */
+  /* line 54, ../sass/_gaga-page-about.sass */
   .about .user .mugshot {
     width: 200px;
     height: 200px;
@@ -9482,7 +9482,7 @@ a:hover, a:focus, a:active {
     -webkit-box-shadow: rgba(24, 24, 24, 0.75) 0 0 10px;
     box-shadow: rgba(24, 24, 24, 0.75) 0 0 10px;
   }
-  /* line 57, ../sass/_gaga-page-about.sass */
+  /* line 59, ../sass/_gaga-page-about.sass */
   .about .user .namebox {
     position: static;
     top: inherit;
@@ -9490,106 +9490,106 @@ a:hover, a:focus, a:active {
     margin: 15px 0;
     padding-left: 0;
   }
-  /* line 63, ../sass/_gaga-page-about.sass */
+  /* line 65, ../sass/_gaga-page-about.sass */
   .about .user .namebox .chinesename, .about .user .namebox .englishname {
     display: block;
     height: inherit;
   }
-  /* line 66, ../sass/_gaga-page-about.sass */
+  /* line 68, ../sass/_gaga-page-about.sass */
   .about .user .namebox .englishname {
     padding-left: 0;
   }
-  /* line 68, ../sass/_gaga-page-about.sass */
+  /* line 70, ../sass/_gaga-page-about.sass */
   .about .user .namebox .jobtitle {
     margin-top: 15px;
   }
 }
-/* line 70, ../sass/_gaga-page-about.sass */
+/* line 72, ../sass/_gaga-page-about.sass */
 .about .contactinfo {
   background-color: #333333;
   list-style: none;
   margin: 20px 0;
   padding: 0;
 }
-/* line 75, ../sass/_gaga-page-about.sass */
+/* line 77, ../sass/_gaga-page-about.sass */
 .about .contactinfo:after, .about .contactinfo:before {
   content: "";
   display: table;
 }
-/* line 78, ../sass/_gaga-page-about.sass */
+/* line 80, ../sass/_gaga-page-about.sass */
 .about .contactinfo:after {
   clear: both;
 }
-/* line 80, ../sass/_gaga-page-about.sass */
+/* line 82, ../sass/_gaga-page-about.sass */
 .about .contactinfo .infoitem {
   float: left;
   padding: 20px 15px;
   width: 100%;
   font-size: 16px;
 }
-/* line 85, ../sass/_gaga-page-about.sass */
+/* line 87, ../sass/_gaga-page-about.sass */
 .about .contactinfo .infoitem > i {
   color: #00b960;
 }
-/* line 87, ../sass/_gaga-page-about.sass */
+/* line 89, ../sass/_gaga-page-about.sass */
 .about .contactinfo .infoitem a {
   color: #FFFFFF;
 }
-/* line 89, ../sass/_gaga-page-about.sass */
+/* line 91, ../sass/_gaga-page-about.sass */
 .about .contactinfo .infoitem a > i {
   font-size: 12px;
 }
-/* line 91, ../sass/_gaga-page-about.sass */
+/* line 93, ../sass/_gaga-page-about.sass */
 .about .contactinfo .infoitem a:hover, .about .contactinfo .infoitem a:focus, .about .contactinfo .infoitem a:active {
   color: #00d36d;
 }
 @media only screen and (min-width: 992px) {
-  /* line 70, ../sass/_gaga-page-about.sass */
+  /* line 72, ../sass/_gaga-page-about.sass */
   .about .contactinfo {
     background-color: transparent;
     border-bottom: 1px solid #4D4D4D;
   }
-  /* line 96, ../sass/_gaga-page-about.sass */
+  /* line 98, ../sass/_gaga-page-about.sass */
   .about .contactinfo .infoitem {
     text-align: center;
     width: 25%;
   }
 }
 
-/* line 99, ../sass/_gaga-page-about.sass */
+/* line 101, ../sass/_gaga-page-about.sass */
 .resume {
   font-weight: 200;
 }
-/* line 101, ../sass/_gaga-page-about.sass */
+/* line 103, ../sass/_gaga-page-about.sass */
 .resume .resumeList {
   margin: 0;
   padding: 0;
   list-style: none;
 }
-/* line 106, ../sass/_gaga-page-about.sass */
+/* line 108, ../sass/_gaga-page-about.sass */
 .resume .resumeList > ul {
   margin: 0 0 15px;
   padding-left: 15px;
   list-style: none;
 }
-/* line 111, ../sass/_gaga-page-about.sass */
+/* line 113, ../sass/_gaga-page-about.sass */
 .resume .resumeList > ul > li.resumeList-description {
   color: #B3B3B3;
   padding-left: 15px;
 }
-/* line 114, ../sass/_gaga-page-about.sass */
+/* line 116, ../sass/_gaga-page-about.sass */
 .resume .resumeList > ul > li.resumeList-post {
   color: #B3B3B3;
   padding-left: 15px;
 }
-/* line 117, ../sass/_gaga-page-about.sass */
+/* line 119, ../sass/_gaga-page-about.sass */
 .resume .resumeList > ul > li.resumeList-icon {
   margin: 5px 0;
   color: #B3B3B3;
   font-size: 28px;
   padding-left: 15px;
 }
-/* line 125, ../sass/_gaga-page-about.sass */
+/* line 127, ../sass/_gaga-page-about.sass */
 .resume .resumeList.resume-project > ul > li.resumeList-description {
   display: none;
 }
